@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Leon  
 
-<!--
-**vicious-franco/vicious-franco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer with experience building modern, responsive, and interactive applications. Most of my work is based on the **MERN stack**, styled with **Tailwind CSS**, and enhanced with libraries such as **Framer Motion**.  
 
-Here are some ideas to get you started:
+I’m currently expanding my skills into **TypeScript**, **Next.js**, **React Native**, and exploring **Java** for backend development. I enjoy solving real-world problems, learning continuously, and delivering clean, maintainable solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack  
+
+**Core**  
+- MongoDB | Express.js | React | Node.js  
+- Tailwind CSS | Framer Motion | REST APIs  
+
+**Currently Learning**  
+- TypeScript | Next.js | React Native | Java  
+
+---
+
+## GitHub Statistics  
+
+![Leon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicious-franco&show_icons=true&theme=default)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicious-franco&layout=compact&theme=default)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicious-franco&theme=default)  
+
+---
+
+## Featured Projects  
+
+- **[Project 1 Name](#)** – short description.  
+- **[Project 2 Name](#)** – short description.  
+- **[Project 3 Name](#)** – short description.  
+
+*(More projects coming soon.)*  
+
+---
+
+## Connect  
+
+- GitHub: [@vicious-franco](https://github.com/vicious-franco)  
+- LinkedIn: [Your LinkedIn]  
+- Portfolio: [Your Portfolio link]  
