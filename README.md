@@ -33,6 +33,6 @@ I’m currently expanding my skills into **TypeScript**, **Next.js**, **React Na
 
 ## Connect  
 
-- GitHub: [@vicious-franco](https://github.com/vicious-franco)  
+- GitHub: [@vicious-franco](https://github.com/atlas-devel)  
 - LinkedIn: https://www.linkedin.com/in/irakarama-jean-francois-leon-070831278
 
