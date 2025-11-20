@@ -7,11 +7,11 @@ I'm currently expanding my skills into **TypeScript**, **Next.js**, **React Nati
 ## Tech Stack  
 **Core**  
 - MongoDB | Express.js | React | Node.js  
-- PostgreSQL | Python  | Prisma
+- PostgreSQL | Python| fastAPI | Prisma
 - Tailwind CSS | Framer Motion | REST APIs  
 
 **Currently Learning**  
-- TypeScript | Next.js | React Native | Java
+- TypeScript | Next.js | React Native 
 
 ---
 
